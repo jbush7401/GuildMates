@@ -1,7 +1,7 @@
 /**
  * Created by jbush_000 on 5/31/2016.
  */
-var bcrypt = require('bcrypt');
+var bcrypt = require('bcryptjs');
 
 class UserService {
   constructor() {
